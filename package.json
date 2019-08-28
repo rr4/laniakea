@@ -1,0 +1,37 @@
+{
+  "name": "laniakea",
+  "version": "1.0.0",
+  "description": "Laniakea",
+  "main": "",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "watch": "gulp watch",
+    "vendor": "gulp scripts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkorigin/laniakea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkorigin/laniakea/issues"
+  },
+  "homepage": "https://github.com/lkorigin/laniakea#readme",
+  "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp": "^4.0.1",
+    "gulp-cli": "^2.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-terser": "^1.2.0",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "reset-css": "^4.0.1",
+    "terser": "^4.2.0"
+  }
+}
